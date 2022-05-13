@@ -1,3 +1,4 @@
+![fluxograma](https://user-images.githubusercontent.com/104045633/168195784-f19344c1-8cfc-4a07-bda8-9236c220dd2e.png)
 ALGORITMO DO EXERCICIO
 
 
