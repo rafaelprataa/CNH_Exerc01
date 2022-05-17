@@ -7,20 +7,20 @@ public class CNH {
 		int psico, legis, direcao; // criei as respectivas variaveis
 		
 		
-		System.out.println("VOC  FOI APROVADO NO EXAME PSICOT…CNICO? DIGITE 1 SE SIM, OU 2 SE N√O"); // println para perguntar e o usuario digitar na linha de baixo
+		System.out.println("VOC√ä FOI APROVADO NO EXAME PSICOT√âCNICO? DIGITE 1 SE SIM, OU 2 SE N√ÉO"); // println para perguntar e o usuario digitar na linha de baixo
 		psico = entrada.nextInt();
 		
-		System.out.println("VOC  FOI APROVADO NO EXAME DE LEGISLA«√O? DIGITE 1 SE SIM, OU 2 SE N√O");  // println para perguntar e o usuario digitar na linha de baixo
+		System.out.println("VOC√ä FOI APROVADO NO EXAME DE LEGISLA√á√ÉO? DIGITE 1 SE SIM, OU 2 SE N√ÉO");  // println para perguntar e o usuario digitar na linha de baixo
 		legis = entrada.nextInt();
 		
-		System.out.println("VOC  FOI APROVADO NO EXAME DE DIRE«√O? DIGITE 1 SE SIM, OU 2 SE N√O"); // println para perguntar e o usuario digitar na linha de baixo
+		System.out.println("VOC√ä FOI APROVADO NO EXAME DE DIRE√á√ÉO? DIGITE 1 SE SIM, OU 2 SE N√ÉO"); // println para perguntar e o usuario digitar na linha de baixo
 		direcao = entrada.nextInt();
 		
 		if ( psico == 1 && legis ==1 && direcao == 1){// se psico e legis e direcao forem iguais, exibir na tela que o usuario foi aprovado
-			System.out.println("VOC  FOI APROVADO!");
+			System.out.println("VOC√ä TEM PERMISS√ÉO PARA A CNH, PARAB√âNS!");
 			
 		}else {
-			System.out.println("VOC  FOI REPROVADO!"); // se alguma n„o for verdadeira, exibe que o usuario foi reprovado
+			System.out.println("VOC√ä FOI REPROVADO!"); // se alguma n√£o for verdadeira, exibe que o usuario foi reprovado
 			
 		}
 		
