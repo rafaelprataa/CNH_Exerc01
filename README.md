@@ -1,4 +1,4 @@
-## Aqui temos um algoritmo utilizando estrutura condicional para determinar se uma pessoa tem permissão para CNH, nesse algoritmo todas condicionais devem retornar  verdadeiras.
+## Aqui temos um algoritmo utilizando estrutura condicional para determinar se uma pessoa tem permissão para CNH, nesse algoritmo todas condicionais devem ser  verdadeiras.
 
 # ALGORITMO DO EXERCICIO
 
